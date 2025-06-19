@@ -1,0 +1,1 @@
+// Simulated compiled JavaScript bundle
